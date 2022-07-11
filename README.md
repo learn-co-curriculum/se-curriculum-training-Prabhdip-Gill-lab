@@ -1,4 +1,4 @@
-# Prabhdip Gill
+# Prabhdip Gill First Lab
 
 ## Learning Goals
 
